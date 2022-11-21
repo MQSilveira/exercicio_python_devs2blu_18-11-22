@@ -10,8 +10,11 @@ Atividade em sala de aula no curso +Devs2Blu no dia 18 de novembro de 2022.
 ### Enunciado do exercício: <br>
 - Exercício do dia 16/11 <br>
 https://github.com/MQSilveira/exercicio_python_modulo03_opp/blob/main/CRUD%20OBJETO.pdf
+
+- Diretório do exercício do dia 16/11 <br>
+https://github.com/MQSilveira/exercicio_python_devs2blu_16-11-22.git
  
- - Exercício solicitando atualização do exercício citado acima 
+ - Exercício do dia 18/11 solicitando atualização do exercício citado acima 
 https://github.com/MQSilveira/exercicio_python_modulo03_opp/blob/main/Update%20Delete.pdf
 
 ## Informações e requisitos sobre o desenvolvimento do exercício: <br>
