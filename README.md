@@ -1,7 +1,7 @@
 # exercicio_python_modulo03_opp <br>
 MÓDULO 003 Python - OOP Python - Atividade Prática Atividade prática (CRUD, Update e Delete)
 
-Atividade em sala de aula no curso +Devs2Blu no dia 18 de novembro de 2022.
+Atividade em sala de aula no curso +Devs2Blu realizada no dia 18 de novembro de 2022.
 
 ### Atividade de Phython - OPP <br>
 - Princípios da orientação a objetos (OPP)
